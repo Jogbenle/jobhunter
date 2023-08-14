@@ -10,7 +10,9 @@ const Search = () => {
         gap-[10px] bg-white p-5 shadow-lg shadow-greyIsh-700'>
           
           <div className='flex gap-2 item-center'>    
-            <AiOutlineSearch/>
+            <AiOutlineSearch className='text-[25px] icon'/>
+            <input type='text' className='bg-transparent text-blue-500 
+            focus:outline-none w-[100%]' placeholder='Seach Job Here...'/>
           </div>
 
         </div>
