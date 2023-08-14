@@ -1,8 +1,11 @@
 @import url('http://fonts.googleapls.com/css2?family=Poppins:wweight@200;300;400;600;800&display=swap');
 
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
+ @import "tailwindcss/base";
+ @import "tailwindcss/components";
+ @import "tailwindcss/utilities";
 
 :root{
   font-family:'Poppins', sans-serif;
