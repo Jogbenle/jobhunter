@@ -25,12 +25,13 @@ li:hover::before{
  width: 100%;
  background: #2a68ff;
  right: 0;
+ bottom: -10px;
  color: #2a68ff;
 }
 
-/*.icon{
+.icon{
   cursor: pointer;
-}*/
+}
 
 /*.card{
   background: #000;
