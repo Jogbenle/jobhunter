@@ -25,6 +25,10 @@ const Jobs = () => {
           <img src={logo1} alt='Company Logo' className='w-[10%]'/>
           <span className='text-[14px] py-[1rem] block group-hover:text-white'>Novac Linus Co.</span>
         </div>
+
+        <button className='border-[2px] rounded-[10px] block p-[10px] w-full text-item:text-textColor group-hover:text-white'>
+          Apply Now
+        </button>
         </div>
       </div>
     </div>
