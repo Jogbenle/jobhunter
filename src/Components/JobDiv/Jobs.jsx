@@ -15,6 +15,14 @@ const Jobs = () => {
           </span>
         </span>
         <h6 className='text-[#ccc]'>Canada</h6>
+
+        <p className='text-[13px] text-[#959595] pt-[20px] border-t-[2px] mt-[20px] group-hover:text-white'>
+          Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!
+        </p>
+
+        <div className='company flex items-center gap-2'>
+          <img src='' alt=''/>
+        </div>
         </div>
       </div>
     </div>
