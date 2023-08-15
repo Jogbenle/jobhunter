@@ -1,5 +1,6 @@
 import React from 'react'
 import {BiTimeFive} from 'react-icons/bi' 
+import logo1 from '../../Assets/logo (1).jpg'
 
 const Jobs = () => {
   return (
@@ -21,7 +22,8 @@ const Jobs = () => {
         </p>
 
         <div className='company flex items-center gap-2'>
-          <img src='' alt=''/>
+          <img src={logo1} alt='Company Logo' className='w-[10%]'/>
+          <span className='text-[14px] py-[1rem] block group-hover:text-white'>Novac Linus Co.</span>
         </div>
         </div>
       </div>
