@@ -1,6 +1,8 @@
 import React from 'react'
 import {BiTimeFive} from 'react-icons/bi' 
 import logo1 from '../../Assets/logo (1).jpg'
+import logo2 from '../../Assets/logo (2).jpg'
+import logo3 from '../../Assets/logo (3).jpg'
 
 const Data =[
   {
@@ -11,7 +13,25 @@ const Data =[
     location: 'Canada',
     desc: 'Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!',
     company: 'Novac Linus Co.'
-  }
+  },
+  {
+    id:2,
+    image: logo2,
+    title: 'UI Designer',
+    time: '13Hrs',
+    location: 'Manchester',
+    desc: 'Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!',
+    company: 'Liquid Accessments'
+  },
+  {
+    id:3,
+    image: logo3,
+    title: 'Web Developer',
+    time: 'Now',
+    location: 'Canada',
+    desc: 'Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!',
+    company: 'Novac Linus Co.'
+  },
 ]
 
 
