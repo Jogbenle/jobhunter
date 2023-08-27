@@ -3,6 +3,11 @@ import {BiTimeFive} from 'react-icons/bi'
 import logo1 from '../../Assets/logo (1).jpg'
 import logo2 from '../../Assets/logo (2).jpg'
 import logo3 from '../../Assets/logo (3).jpg'
+import logo4 from '../../Assets/logo (4).jpg'
+import logo5 from '../../Assets/logo (5).jpg'
+import logo6 from '../../Assets/logo (6).jpg'
+import logo7 from '../../Assets/logo (7).jpg'
+import logo8 from '../../Assets/logo (8).jpg'
 
 const Data =[
   {
@@ -32,7 +37,54 @@ const Data =[
     desc: 'Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!',
     company: 'Novac Linus Co.'
   },
+  {
+    id:4,
+    image: logo4,
+    title: 'Software Eng.',
+    time: 'Now',
+    location: 'Canada',
+    desc: 'Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!',
+    company: 'Web Tech Agency.'
+  },
+  {
+    id:5,
+    image: logo5,
+    title: 'UI/UX Designer',
+    time: '13Hrs',
+    location: 'London',
+    desc: 'Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!',
+    company: 'Govenment'
+  },
+  {
+    id:6,
+    image: logo6,
+    title: 'Product Designer',
+    time: '2 Days',
+    location: 'Norway',
+    desc: 'Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!',
+    company: 'Wim. Co.'
+  },
+  {
+    id:7,
+    image: logo7,
+    title: 'Researcher',
+    time: '10Hrs',
+    location: 'Austria',
+    desc: 'Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!',
+    company: 'Liquid Accessories.'
+  },
+  {
+    id:8,
+    image: logo8,
+    title: 'Data Scientist',
+    time: '13Hrs',
+    location: 'Manchester',
+    desc: 'Lorem ipsum, dolor sit amet consectetur adisoins elit. curriust loreaunsyd!',
+    company: 'Name & Sene'
+  },
+
 ]
+
 
 
 
