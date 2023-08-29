@@ -55,10 +55,27 @@ const Value = () => {
             We work on the basis of creating trust which can be nutured through authenticity and transparency
           </p>
         </div>
-         
+               
+      </div>
+
+      <div className='card mt-[2rem] flex justify-between bg-blueColor p-[5rem] rounded [10px]'>
+        <div>
+          <h1 className='text-blueColor text-[30px] font-bol'>Ready to switch a Careers
+          </h1>
+          <h2 className='text text-color text-[25px] font-bold'>Let's get started</h2>
+        </div>
+        
+        <button className='border-[2px] rounded-[10px] py-[4px] px-[50px] text-[18px] font-semibold text-blueColor hover:bg-white border-blueColor'>
+          Get Started
+        </button>
+
       </div>
     </div>
   )  
 }
 
 export default Value
+
+
+/* <h1 className='text-blueColor text-[30px] font-bold'>Ready to switch a Careers
+<h1/> */
